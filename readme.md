@@ -6,6 +6,9 @@
 
 This repository contains materials supporting this course. My email address is
 
+### Schedule
+
+[schedule.pdf](pdf/schedule.pdf)
 ```
 carter_charles@columbusstate.edu
 ```
